@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi there 👋, I love to build software 💻
 
-<!--
-**papismurf/papismurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+**BChain**  
+🌱 Developer | 🐍 Pythonista  
+🔬 Technology | 💸 Finance | 🌍 Earth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 🐍 Python
+
+- **FastAPI**
+- **Langchain**
+- **Django**
+- **pandas**
+- **numpy**
+- many more...
+
+### 💻 Typescript
+
+- **React**
+- **Next.js**
+- couple more...
+
+### 🗄️ Databases
+
+- **Postgres**
+- **MongoDB**
+- **InfluxDB and more**
+
+### ☁️ Cloud & Automation
+
+- Azure
+- AWS
+- GCP
+- Ansible
+- Apache Airflow
+- VMWare
+
+Anything else you want to know, just ask ;)
+
+---
+
+## 📫 Contact
+
+- 🌐 [GitHub: papismurf](https://github.com/papismurf)
+- 💬 Open to collaboration on technology, finance, and sustainability projects!
+
+---
+
+> _“Building the future, one line of code at a time.”_
+
+---
